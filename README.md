@@ -2,7 +2,7 @@
 
 <img src="screenshot.jpeg" align="right" width=300/>
 
-### This is just for educational purpose and to understand the concepts of programming. I'm not responsible for any kind of misuse of this script.
+### This is just for educational purposes and to understand the concepts of programming. I'm not responsible for any misuse of this script.
 
 This bot attends my university online zoom classes every day on an ubuntu server. It fetches the zoom meeting links from the University student profile website using my login credentials, arranges them in chronological order, and attends every class back-to-back, using Selenium Firefox after authenticating the zoom account.
 
