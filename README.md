@@ -1,6 +1,6 @@
 # GITAM Online ZOOM Classes Attender
 
-<img src="screenshot.jpeg" align="right"/>
+<img src="screenshot.jpeg" align="right" width=400/>
 
 This bot attends my university online zoom classes every day on an ubuntu server. It fetches the zoom meeting links from the University student profile website using my login credentials, arranges them in chronological order, and attends every class back-to-back, using Selenium Firefox after authenticating the zoom account.
 
