@@ -2,15 +2,21 @@
 
 <img src="screenshot.jpeg" align="right" width=300/>
 
+## This is just for educational purpose and to understand programming. I'm not responsible for any misuse of this script.
+
 This bot attends my university online zoom classes every day on an ubuntu server. It fetches the zoom meeting links from the University student profile website using my login credentials, arranges them in chronological order, and attends every class back-to-back, using Selenium Firefox after authenticating the zoom account.
 
 <b>Features:</b>
-1. Joins audio
+1. Joins audio.
 2. A telegram notification is sent after attending every class.
 3. If there are no classes after a specific time, the bot goes to sleep.
 
-<b>Packages:</b>
+<b>Packages used:</b>
 1. Requests
 2. BeautifulSoup
 3. Selenium
 4. Datetime
+
+<b>Future updates:</b>
+1. Attend polls.
+2. Send chat messages.
