@@ -7,9 +7,10 @@
 This bot attends my university online zoom classes every day on an ubuntu server. It fetches the zoom meeting links from the University student profile website using my login credentials, arranges them in chronological order, and attends every class back-to-back, using Selenium Firefox after authenticating the zoom account.
 
 <b>Features:</b>
-1. Joins audio.
-2. A telegram notification is sent after attending every class.
-3. If there are no classes after a specific time, the bot goes to sleep.
+1. Checks for updated classes/links in GLearn every 30 seconds.
+2. Joins audio also, after joining the meeting.
+3. A telegram notification is sent after attending every class.
+4. If there are no classes after a specific time, the bot goes to sleep.
 
 <b>Packages used:</b>
 1. Requests
